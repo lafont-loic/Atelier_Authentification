@@ -1,4 +1,4 @@
 AuthName "Accès protégé"
 AuthType Basic
-AuthUserFile /home/https://lafont.alwaysdata.net/www/.htpasswd
+AuthUserFile /home/lafont.alwaysdata.net/www/.htpasswd
 Require valid-user
