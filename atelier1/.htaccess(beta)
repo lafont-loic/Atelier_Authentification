@@ -1,4 +1,0 @@
-AuthName "Accès protégé"
-AuthType Basic
-AuthUserFile lafont.alwaysdata.net/atelier1/
-Require valid-user
