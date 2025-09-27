@@ -1,4 +1,4 @@
 AuthName "Accès protégé"
 AuthType Basic
-AuthUserFile /home/lafont/www/.htpasswd
+AuthUserFile /Atellier_Authentification/atelier1/.htpasswd
 Require valid-user
