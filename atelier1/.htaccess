@@ -1,4 +1,4 @@
 AuthName "Accès protégé"
 AuthType Basic
-AuthUserFile /atelier1/.htpasswd
+AuthUserFile lafont.alwaysdata.net/atelier1/
 Require valid-user
