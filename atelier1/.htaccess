@@ -1,4 +1,4 @@
 AuthName "Accès protégé"
 AuthType Basic
-AuthUserFile lafont-loic/Atelier_Authentification/atelier1/.htpasswd
+AuthUserFile .www/atelier1/.htpasswd
 Require valid-user
